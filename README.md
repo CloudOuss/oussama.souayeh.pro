@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://oussama.souayeh.pro">
-    <img alt="Oussama Souayeh Website" src="https://oussama.souayeh.pro/android-chrome-512x512.png" />
+    <img alt="Oussama Souayeh Website" src="https://oussama.souayeh.pro/favicon.ico" />
   </a>
 </p>
 <h1 align="center">
@@ -48,7 +48,7 @@ Your site is now running at `http://localhost:8000`!
 
 If you want to learn more about how you can use a Gatsby starter that is configured with a Gatsby theme, you can check out this [shorter](https://www.gatsbyjs.com/docs/how-to/plugins-and-themes/using-a-gatsby-theme/) or [longer](https://www.gatsbyjs.com/tutorial/using-a-theme/) tutorial. The tutorials don't exactly apply to this starter however the concepts are the same.
 
-## 📝 Using and modifying this starter
+## 📝 Using and modifying this blog
 
 **Important Note:** Please read the guide [Shadowing in Gatsby Themes](https://www.gatsbyjs.com/docs/how-to/plugins-and-themes/shadowing/) to understand how to customize the underlying theme!
 
