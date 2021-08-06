@@ -37,11 +37,15 @@ module.exports = {
         externalLinks: [
           {
             name: `Github`,
-            url: `https://github.com/CloudOuss`,
+            url: `https://github.com/CloudOuss/`,
+          },
+          {
+            name: `Linkedin`,
+            url: `https://www.linkedin.com/in/CloudOuss/`,
           },
           {
             name: `Twitter`,
-            url: `https://twitter.com/CloudOuss`,
+            url: `https://twitter.com/CloudOuss/`,
           }
         ],
       },
